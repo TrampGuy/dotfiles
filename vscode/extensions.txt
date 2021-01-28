@@ -11,3 +11,4 @@ ms-azuretools.vscode-docker
 pucelle.vscode-css-navigation
 streetsidesoftware.code-spell-checker
 VisualStudioExptTeam.vscodeintellicode
+zhuangtongfa.material-theme
