@@ -20,7 +20,7 @@ If you're a new vscode user, or simply prefer to avoid linking an account for wh
   cat extensions.txt | xargs -L 1 code --install-extension
   ```
   
-  > The `code --install-extension` command allows for a single extension id only so we run it one by one. You can generate an extensions file from your currently installed extensions by running `code --list-extensions > extensions.txt`.
+  > The `code --install-extension` command accepts a single extension id only so we have to run it for each extension. You can generate an extensions file from your currently installed extensions by running `code --list-extensions > extensions.txt`.
   
 ### Alternative Extension Syncing Methods
 
